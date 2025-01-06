@@ -6,6 +6,7 @@ This repository contains implementations of various Data Structures and Algorith
 
 ### Data Structures
 - **Array**
+  - Bubble Sort 
 - **Linked List**
   - Singly Linked List
   - Doubly Linked List
