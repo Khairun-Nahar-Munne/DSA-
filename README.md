@@ -48,9 +48,3 @@ This repository contains implementations of various Data Structures and Algorith
   - Backtracking (e.g., N-Queens Problem)
   - Divide and Conquer
 
-## Usage
-
-Clone the repository:
-```bash
-git clone https://github.com/Khairun-Nahar-Munne/DSA-.git
-cd DSA-
